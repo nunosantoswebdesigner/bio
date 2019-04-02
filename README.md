@@ -12,7 +12,7 @@ Este é o meu projecto de biografia com efeitos hover no texto, aparecendo image
 
 ## Animations
 
-![Bio_Animations](https://nunosantoswebdesigner.github.io/bio/img/screenshot1.png)
+![Bio_Animations](https://nunosantoswebdesigner.github.io/bio/img/screenshot2.png)
 
 ## Misc
 
