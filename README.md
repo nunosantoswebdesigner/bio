@@ -3,7 +3,7 @@
 This is my bio skecth with a set of link hover effects that reveal a thumbnail in different creative ways. 
 Este é o meu projecto de biografia com efeitos hover no texto, aparecendo imagens e outras animações.
 
-![Bio nuno santos](bio/img/screenshot1.png)
+![Bio nuno santos](https://nunosantoswebdesigner.github.io/bio/img/screenshot1.png)
 
 [Bio](https://nunosantoswebdesigner.github.io/bio)
 
